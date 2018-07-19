@@ -1,4 +1,4 @@
-import * as actionTypes from './actions';
+/*import * as actionTypes from '../store/actions/actions';
 
 const initialState = {
     counter: 0,
@@ -43,4 +43,4 @@ const reducer = (state = initialState, action) => {
     return state;
 };
 
-export default reducer;
+export default reducer;  */
